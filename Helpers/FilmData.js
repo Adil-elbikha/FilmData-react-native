@@ -1,6 +1,6 @@
 //Helpers/FilmData.js
 
-// Helpers/filmsData.js
+
 
 export default data = [
     {
